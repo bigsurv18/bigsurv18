@@ -8,6 +8,9 @@ Please add your repos with pull requests. Thank you!
 Spark for Social Science by @ianthomas
 https://github.com/RTIInternational/BigSurv18-Spark-for-Social-Science
 
+Introduction to Computational Text Analysis by @rochelleterman
+https://github.com/rochelleterman/BigSurvText
+
 ## Hackathon
 
 
